@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/binge_watch/static/css/main.eafcd62a.css",
+    "main.js": "/binge_watch/static/js/main.84856cbd.js",
+    "index.html": "/binge_watch/index.html",
+    "main.eafcd62a.css.map": "/binge_watch/static/css/main.eafcd62a.css.map",
+    "main.84856cbd.js.map": "/binge_watch/static/js/main.84856cbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eafcd62a.css",
+    "static/js/main.84856cbd.js"
+  ]
+}
